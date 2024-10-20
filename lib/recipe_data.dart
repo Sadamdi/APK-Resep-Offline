@@ -4,211 +4,217 @@ final List<Map<String, String>> recipes = [
     'title': 'Soft Cookies',
     'calories': '70 Kcal',
     'time': '45 min',
-    'ingredients': '1.- 250 g tepung protein tinggi\n'
-        '2.- 200 g choco chips\n'
-        '3.- 115 g mentega dingin\n'
-        '4.- 100 g gula kastor\n'
-        '5.- 2 butir telur\n'
-        '6.- 1 sdm tepung maizena\n'
-        '7.- 1/2 sdt baking soda\n'
-        '8.- 1/4 sdt garam\n'
-        '9.- 200 g DCC (cokelat batangan)\n'
-        '10.- 100 ml whipping cream\n'
-        '11.- 1 sachet kopi instan (nescafe classic)\n'
-        '12.- 1 sdm butter\n'
-        '13.- 1/2 sdt vanilla esens\n'
-        '14.- 1 sdt coklat bubuk\n',
-    'instructions': '1. Buat isiannya dahulu. Cincang DCC, rebus air di panci. Masukkan whipping cream ke dalam mangkuk tahan panas/stainless steel, panaskan di atas rebusan air, aduk hingga lembut.\n'
-        '2. Masukkan DCC, aduk hingga larut. Masukkan kopi instan, vanila dan butter, aduk rata. Tuang ke atas loyang yang sudah dialasi baking paper.\n'
-        '3. Jika sudah dingin, simpan di dalam kulkas hingga teksturnya liat. Keluarkan, bentuk bulat-bulat atau sesuai selera. Simpan lagi di kulkas.\n'
-        '4. Sekarang buat adonan cookiesnya. Kocok mentega dan gula kastor hingga lembut.\n'
-        '5. Masukkan telur satu per satu, sambil dikocok hingga tercampur rata. Masukkan tepung terigu, tepung maizena, baking soda & garam). Aduk rata.  Kemudian masukkan choco chips dan aduk kembali.\n'
-        '6. Bagi-bagi adonan sama berat, kurang lebih 100 gram. Beri isian cokelat, bulatkan lagi. Lakukan hingga adonan habis. Simpan di dalam kulkas selama 1 jam.\n'
-        '7. Panaskan oven (atau bisa juga pakai teflon). Tata berjarak di atas loyang dan kertas baking.\n'
-        '8. Panggang selama 12-15 menit dengan suhu 200 derajat Celcius, sesuaikan dengan oven masing-masing.\n'
-        '9. Kukis siap dinikmati dengan isian yang lumer jika dimakan selagi hangat.\n'
-        '10. Simpan soft cookies di kulkas agar tahan lama, dan bisa dinikmati kapan pun.\n',
+    'ingredients': '1. 250g high-protein flour\n'
+        '2. 200g chocolate chips\n'
+        '3. 115g cold butter\n'
+        '4. 100g caster sugar\n'
+        '5. 2 eggs\n'
+        '6. 1 tbsp cornstarch\n'
+        '7. 1/2 tsp baking soda\n'
+        '8. 1/4 tsp salt\n'
+        '9. 200g dark chocolate (DCC)\n'
+        '10. 100ml whipping cream\n'
+        '11. 1 sachet instant coffee (Nescafe classic)\n'
+        '12. 1 tbsp butter\n'
+        '13. 1/2 tsp vanilla essence\n'
+        '14. 1 tsp cocoa powder\n',
+    'instructions': '1. Start by making the filling. Finely chop the dark chocolate. Heat whipping cream in a heatproof bowl over a saucepan of simmering water. Stir until smooth.\n'
+        '2. Add dark chocolate and stir until melted. Add instant coffee, vanilla, and butter. Stir well. Pour the mixture into a baking sheet lined with parchment paper.\n'
+        '3. Once cooled, refrigerate until the texture becomes chewy. Shape into balls and store them in the fridge.\n'
+        '4. Now, prepare the cookie dough. Beat butter and caster sugar until fluffy.\n'
+        '5. Add eggs one at a time, beating after each addition. Sift in the flour, cornstarch, baking soda, and salt. Mix until well combined. Fold in the chocolate chips.\n'
+        '6. Divide the dough evenly (about 100 grams each). Place a chocolate filling inside each portion and form a ball. Repeat until the dough is used up. Refrigerate for 1 hour.\n'
+        '7. Preheat the oven (or use a non-stick pan). Place the dough balls onto a baking tray lined with parchment paper, leaving space between them.\n'
+        '8. Bake at 200°C (392°F) for 12-15 minutes. Adjust according to your oven.\n'
+        '9. Enjoy the soft cookies while warm with the gooey chocolate filling.\n'
+        '10. Store leftovers in the fridge to enjoy later.\n',
   },
   {
     'imageUrl': 'img/salad buah.jpg',
-    'title': 'Salad Buah',
+    'title': 'Fruit Salad',
     'calories': '50 Kcal',
     'time': '10 min',
-    'ingredients': '1. 200 gram buah apel\n'
-        '2. 100 gram anggur\n'
-        '3. 50 gram stroberi\n'
-        '4. 100 ml yogurt plain\n'
-        '5. 1 sdm madu\n'
-        '6. Keju parut secukupnya\n',
-    'instructions': '1. Potong buah-buahan sesuai selera.\n'
-        '2. Campurkan yogurt dengan madu.\n'
-        '3. Tuangkan campuran yogurt ke atas buah-buahan.\n'
-        '4. Taburi keju parut sebagai topping dan salad buah siap disajikan.\n',
+    'ingredients': '1. 200g apple\n'
+        '2. 100g grapes\n'
+        '3. 50g strawberries\n'
+        '4. 100ml yogurt\n'
+        '5. 1 tbsp honey\n'
+        '6. Grated cheese (optional)\n',
+    'instructions': '1. Cut the fruits into bite-sized pieces.\n'
+        '2. Mix yogurt and honey together.\n'
+        '3. Pour the yogurt mixture over the fruits.\n'
+        '4. Sprinkle with grated cheese for topping. Serve the fruit salad chilled.\n',
   },
   {
     'imageUrl': 'img/milkshake.jpg',
-    'title': 'Milkshake',
+    'title': 'Chocolate Milkshake',
     'calories': '250 Kcal',
     'time': '30 min',
-    'ingredients': '1. 1 cup es krim vanila\n'
-        '2. 200 ml susu cair\n'
-        '3. 2 sdm sirup cokelat\n'
-        '4. Whipped cream untuk topping\n',
+    'ingredients': '1. 1 cup vanilla ice cream\n'
+        '2. 200ml milk\n'
+        '3. 2 tbsp chocolate syrup\n'
+        '4. Whipped cream (for topping)\n',
     'instructions':
-        '1. Blender es krim, susu cair, dan sirup cokelat hingga halus.\n'
-            '2. Tuangkan ke dalam gelas.\n'
-            '3. Tambahkan whipped cream di atasnya.\n'
-            '4. Milkshake siap dinikmati.\n',
+        '1. Blend vanilla ice cream, milk, and chocolate syrup until smooth.\n'
+            '2. Pour into a glass.\n'
+            '3. Top with whipped cream.\n'
+            '4. Serve immediately and enjoy your milkshake!\n',
   },
   {
     'imageUrl': 'img/Pudding.jpg',
     'title': 'Chocolate Pudding',
     'calories': '141 Kcal',
     'time': '30 min',
-    'ingredients': '1. 1 bungkus agar-agar tanpa rasa / cokelat\n'
-        '2. 25 gram gula pasir\n'
-        '3. 600 ml air\n'
-        '4. 5 sdm FiberCreme\n'
-        '5. 2 sdm bubuk cacao\n'
-        '6. Strawberry dan mint untuk garnish\n'
-        '7. 50 gram dark chocolate\n',
-    'instructions': '1. Campur 100ml air, FiberCreme, dan dark chocolate ke dalam panci.\n'
-        '2. Hangatkan hingga cokelat meleleh sempurna.\n'
-        '3. Matikan api dan dinginkan.\n'
-        '4. Masak air kemudian tambahkan agar-agar bubuk saat air tidak terlalu panas.\n'
-        '5. Tambahkan gula pasir, bubuk cacao, dan FiberCreme. Masak dan aduk hingga gula larut, sisihkan.\n'
-        '6. Tunggu agar sedikit dingin dalam suhu ruangan, kemudian masukkan ke dalam cetakan.\n'
-        '7. Dinginkan pudding.\n'
-        '8. Sajikan dengan saus cokelat dan buah-buahan untuk garnish.\n',
+    'ingredients': '1. 1 packet of flavorless/cocoa gelatin\n'
+        '2. 25g sugar\n'
+        '3. 600ml water\n'
+        '4. 5 tbsp FiberCreme\n'
+        '5. 2 tbsp cocoa powder\n'
+        '6. Strawberries and mint for garnish\n'
+        '7. 50g dark chocolate\n',
+    'instructions':
+        '1. Combine 100ml water, FiberCreme, and dark chocolate in a saucepan. Heat until the chocolate melts.\n'
+            '2. Remove from heat and cool.\n'
+            '3. Boil the remaining water and add the gelatin when the water is warm.\n'
+            '4. Stir in sugar, cocoa powder, and FiberCreme. Mix well until the sugar dissolves.\n'
+            '5. Let the mixture cool slightly, then pour it into a mold.\n'
+            '6. Refrigerate the pudding until it sets.\n'
+            '7. Serve with chocolate sauce and garnish with fresh fruit.\n',
   },
   {
     'imageUrl': 'img/sandwichbuah.jpg',
-    'title': 'Sandwich Buah',
+    'title': 'Fruit Sandwich',
     'calories': '141 Kcal',
     'time': '10 min',
-    'ingredients': '1. 8 lembar roti tawar segiempat tebal 1 cm\n'
-        '2. 300 ml krim kental\n'
-        '3. 11 sdm gula pasir\n'
-        '4. 1 sdm susu kental manis\n'
-        '5. 1 buah pisang, kupas, potong-potong\n'
-        '6. 1 buah kiwi, kupas, potong-potong\n'
-        '7. 1 buah jeruk navel, kupas, potong-potong\n'
-        '8. 12 buah strawberry, bersihkan, belah dua\n',
-    'instructions': '1. Taruh potongan buah di atas tisu dapur, biarkan hingga tak berair.\n'
-        '2. Taruh gula dan krim kental dalam wadah, kocok dengan mikser listrik hingga lembut mengembang.\n'
-        '3. Tambahkan susu kental manis, kocok merata.\n'
-        '4. Olesi tiap permukaan roti dengan krim kocok.\n'
-        '5. Susun potongan buah di permukaan 4 lembar roti. Atur potongan agar tingginya sama dan paduan warnanya bagus.\n'
-        '6. Olesi permukaan buah dengan krim kocok hingga rata.\n'
-        '7. Tutup dengan lembaran roti beroles krim.\n'
-        '8. Bungkus masing-masing dengan plastic wrap.\n',
+    'ingredients': '1. 8 slices of thick sandwich bread\n'
+        '2. 300ml heavy cream\n'
+        '3. 11 tbsp sugar\n'
+        '4. 1 tbsp sweetened condensed milk\n'
+        '5. 1 banana (sliced)\n'
+        '6. 1 kiwi (sliced)\n'
+        '7. 1 orange (sliced)\n'
+        '8. 12 strawberries (halved)\n',
+    'instructions':
+        '1. Pat the fruit slices dry with paper towels to remove excess moisture.\n'
+            '2. In a bowl, whisk heavy cream and sugar until soft peaks form.\n'
+            '3. Add sweetened condensed milk and whisk until well combined.\n'
+            '4. Spread whipped cream on each slice of bread.\n'
+            '5. Arrange the fruit slices evenly on top of 4 slices of bread.\n'
+            '6. Add another layer of whipped cream over the fruit.\n'
+            '7. Top with another slice of cream-covered bread.\n'
+            '8. Wrap each sandwich tightly with plastic wrap and refrigerate for a while before serving.\n',
   },
   {
     'imageUrl': 'img/smoothies.jpg',
-    'title': 'Smoothies Stroberi Pisang',
+    'title': 'Strawberry Banana Smoothie',
     'calories': '258 Kcal',
     'time': '10 min',
-    'ingredients': '1. 15 buah stroberi\n'
-        '2. 1 buah pisang\n'
-        '3. 200 ml susu cair\n'
-        '4. 1 sdt madu\n'
-        '5. 1 sdt chia seed\n'
-        '6. 3 sdm yogurt\n'
-        '7. Es batu secukupnya\n',
-    'instructions': '1. Bersihkan dan cuci buah stroberi.\n'
-        '2. Kupas pisang dan potong menjadi beberapa bagian.\n'
-        '3. Campur semua bahan dan blender hingga halus.\n'
-        '4. Tuangkan ke dalam gelas.\n'
-        '5. Smoothies stroberi pisang siap disajikan.\n'
+    'ingredients': '1. 15 strawberries\n'
+        '2. 1 banana\n'
+        '3. 200ml milk\n'
+        '4. 1 tsp honey\n'
+        '5. 1 tsp chia seeds\n'
+        '6. 3 tbsp yogurt\n'
+        '7. Ice cubes\n',
+    'instructions': '1. Wash and hull the strawberries.\n'
+        '2. Peel and slice the banana.\n'
+        '3. Combine all ingredients in a blender and blend until smooth.\n'
+        '4. Pour into a glass and serve immediately.\n',
   },
   {
-    'imageUrl': 'img/smoothies.jpg',
-    'title': 'Teh Lemon Madu',
+    'imageUrl': 'img/tehlemon.jpg',
+    'title': 'Honey Lemon Tea',
     'calories': '258 Kcal',
     'time': '10 min',
-    'ingredients': '1. 300 ml air\n'
-        '2. 1 buah jeruk lemon\n'
-        '3. 1 sdm daun teh kering\n'
-        '4. 2 sdm madu\n',
-    'instructions': '1. Bersihkan dan cuci buah stroberi.\n'
-        '2. Kupas pisang dan potong menjadi beberapa bagian.\n'
-        '3. Campur semua bahan dan blender hingga halus.\n'
-        '4. Tuangkan ke dalam gelas.\n'
-        '5. Smoothies stroberi pisang siap disajikan.\n',
+    'ingredients': '1. 300ml water\n'
+        '2. 1 lemon\n'
+        '3. 1 tbsp dried tea leaves\n'
+        '4. 2 tbsp honey\n',
+    'instructions': '1. Boil the water and brew the tea leaves for 5 minutes.\n'
+        '2. Squeeze the lemon juice into a cup.\n'
+        '3. Add brewed tea and stir in honey.\n'
+        '4. Serve hot or chilled with ice cubes.\n',
   },
   {
-    'imageUrl': 'img/Pudding.jpg',
-    'title': 'Smoothies Stroberi Pisang',
+    'imageUrl': 'img/crossan.jpg',
+    'title': 'Cheese Croissant',
     'calories': '258 Kcal',
-    'time': '10 min',
-    'ingredients': '1. 15 buah stroberi\n'
-        '2. 1 buah pisang\n'
-        '3. 200 ml susu cair\n'
-        '4. 1 sdt madu\n'
-        '5. 1 sdt chia seed\n'
-        '6. 3 sdm yogurt\n'
-        '7. Es batu secukupnya\n',
-    'instructions': '1. Bersihkan dan cuci buah stroberi.\n'
-        '2. Kupas pisang dan potong menjadi beberapa bagian.\n'
-        '3. Campur semua bahan dan blender hingga halus.\n'
-        '4. Tuangkan ke dalam gelas.\n'
-        '5. Smoothies stroberi pisang siap disajikan.\n',
+    'time': '60 min',
+    'ingredients': '1. 500g high-protein flour\n'
+        '2. 50g caster sugar\n'
+        '3. 10g instant yeast\n'
+        '4. 30g powdered milk\n'
+        '5. 3 tsp parmesan cheese\n'
+        '6. 1 tsp salt\n'
+        '7. 300ml ice water\n'
+        '8. 350g pastry margarine\n'
+        '9. 1 egg\n'
+        '10. 1 egg yolk\n'
+        '11. 1 tbsp heavy cream\n'
+        '12. 100g cheddar cheese\n',
+    'instructions': '1. Mix flour, sugar, yeast, and powdered milk. Gradually add ice water while kneading until smooth.\n'
+        '2. Add salt and knead until half elastic. Let it rest in the fridge for 15 minutes.\n'
+        '3. Roll the dough out thin, sprinkle with flour, and place pastry margarine in the center. Fold the dough over the margarine.\n'
+        '4. Roll out the dough and fold it again. Rest the dough in the fridge for another 15 minutes.\n'
+        '5. Repeat the folding process once more, then roll out and cut the dough into triangles.\n'
+        '6. Roll the triangles into croissant shapes and place them on a baking sheet.\n'
+        '7. Let the dough rise for 75 minutes. Brush with egg wash and sprinkle with grated cheese.\n'
+        '8. Bake at 190°C (374°F) for 20 minutes or until golden brown.\n',
   },
   {
-    'imageUrl': 'img/Pudding.jpg',
-    'title': 'Smoothies Stroberi Pisang',
-    'calories': '258 Kcal',
+    'imageUrl': 'img/yoghurt.jpg',
+    'title': 'Mango Yogurt Juice',
+    'calories': '110 Kcal',
     'time': '10 min',
-    'ingredients': '1. 15 buah stroberi\n'
-        '2. 1 buah pisang\n'
-        '3. 200 ml susu cair\n'
-        '4. 1 sdt madu\n'
-        '5. 1 sdt chia seed\n'
-        '6. 3 sdm yogurt\n'
-        '7. Es batu secukupnya\n',
-    'instructions': '1. Bersihkan dan cuci buah stroberi.\n'
-        '2. Kupas pisang dan potong menjadi beberapa bagian.\n'
-        '3. Campur semua bahan dan blender hingga halus.\n'
-        '4. Tuangkan ke dalam gelas.\n'
-        '5. Smoothies stroberi pisang siap disajikan.\n',
+    'ingredients': '1. 1 large mango (chilled)\n'
+        '2. 100ml cold water\n'
+        '3. 500ml plain yogurt\n'
+        '4. Ice cubes\n'
+        '5. 1/4 medium papaya (chilled)\n',
+    'instructions': '1. Blend mango, papaya, and yogurt until smooth.\n'
+        '2. Add water and ice cubes, and blend again.\n'
+        '3. Garnish with extra mango slices if desired.\n'
+        '4. Serve chilled and enjoy!\n',
   },
   {
     'imageUrl': 'img/clorfel.jpg',
     'title': 'Croffle',
     'calories': '170 Kcal',
     'time': '20 min',
-    'ingredients': '1. 200 ml susu hangat\n'
-        '2. 6 gr ragi\n'
-        '3. 3 sdm gula pasir\n'
-        '4. 290 gr terigu protein tinggi\n'
-        '5. ½ sdt garam\n'
-        '6. 150 gr mentega\n',
-    'instructions': '1. Campur ragi, gula, dan susu. Tutup dengan plastic wrap, diamkan selama 5-10 menit. Sisihkan.\n'
-        '2. Pada manungkuk terpisah masukkan tepung terigu dan garam. Aduk rata. Masukkan campuran bahan pertama, uleni adonan selama lima menit sampai menyatu.\n'
-        '3. Olesi mangkuk dengan sedikit minyak, masukkan adonan yang sudah diulen. Diamkan selama satu jam.\n'
-        '4. Siapkan alas rata yang luas, taburi tepung terigu. Mulai pipihkan adonan agar berbentuk persegi panjang.\n'
-        '5. Masukkan mentega, oles hingga rata, lalu belah menjadi empat bagian, tumpuk kemudian lipat. Simpan adonan dalam freezer selama 45 menit.\n'
-        '6. Keluarkan adonan dari freezer, pipihkan lagi menjadi 10 bagian dan bentuk segitiga dengan bantuan pisau atau pemotong adonan.\n'
-        '7. Ambil adonan, belah bagian tengah bawah. Tarik dan gulung, lakukan sampai semua adonan habis.\n'
-        '8. Diamkan adonan selama 15-20 menit agar mengembang. Olesi dengan air lalu masukkan ke dalam gula.\n'
-        '9. Panaskan cetakan waffle, masukkan adonan croffle, panggang hingga kecokelatan.\n',
+    'ingredients': '1. 200ml warm milk\n'
+        '2. 6g yeast\n'
+        '3. 3 tbsp sugar\n'
+        '4. 290g high-protein flour\n'
+        '5. 1/2 tsp salt\n'
+        '6. 150g butter\n',
+    'instructions': '1. Mix yeast, sugar, and warm milk. Cover and let it sit for 5-10 minutes.\n'
+        '2. In a separate bowl, combine flour and salt. Add the yeast mixture and knead for 5 minutes.\n'
+        '3. Grease a bowl with a little oil and let the dough rise for 1 hour.\n'
+        '4. Roll out the dough, spread butter evenly, and fold into layers. Rest in the freezer for 45 minutes.\n'
+        '5. Roll out and cut into triangles. Shape into croffles and let them rise again for 20 minutes.\n'
+        '6. Cook in a waffle maker until golden brown.\n',
   },
   {
     'imageUrl': 'img/rotigandum.jpg',
-    'title': 'Roti Gandum',
+    'title': 'Whole Wheat Bread',
     'calories': '258 Kcal',
     'time': '60 min',
-    'ingredients': '1. 500 gr terigu\n'
-        '2. 125 tepung gandum\n'
-        '3. 200 ml susu cair\n'
-        '4. 1 sdt madu\n'
-        '5. 1 sdt chia seed\n'
-        '6. 3 sdm yogurt\n'
-        '7. Es batu secukupnya\n',
-    'instructions': '1. Bersihkan dan cuci buah stroberi.\n'
-        '2. Kupas pisang dan potong menjadi beberapa bagian.\n'
-        '3. Campur semua bahan dan blender hingga halus.\n'
-        '4. Tuangkan ke dalam gelas.\n'
-        '5. Smoothies stroberi pisang siap disajikan.\n',
+    'ingredients': '1. 500g all-purpose flour\n'
+        '2. 125g whole wheat flour\n'
+        '3. 200ml milk\n'
+        '4. 1 tsp honey\n'
+        '5. 1 tsp chia seeds\n'
+        '6. 3 tbsp yogurt\n'
+        '7. Ice cubes as needed\n',
+    'instructions': '1. In a large bowl, combine all-purpose flour, whole wheat flour, chia seeds, and salt.\n'
+        '2. Warm the milk slightly and dissolve the honey in it.\n'
+        '3. Gradually pour the milk into the dry ingredients, mixing to form a dough.\n'
+        '4. Add yogurt and knead the dough until smooth and elastic (about 10 minutes).\n'
+        '5. Cover the dough and let it rise in a warm place for about 1 hour, or until it doubles in size.\n'
+        '6. Preheat the oven to 180°C (350°F).\n'
+        '7. Punch down the dough, shape it into a loaf, and place it in a greased loaf pan.\n'
+        '8. Let the dough rise again for about 20-30 minutes.\n'
+        '9. Bake for 30-35 minutes or until golden brown on top and fully cooked inside.\n'
+        '10. Remove the bread from the oven, cool on a wire rack, slice, and serve.\n',
   },
 ];
