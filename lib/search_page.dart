@@ -84,7 +84,7 @@ class _SearchPageState extends State<SearchPage> {
             TextField(
               onChanged: _filterRecipes,
               decoration: InputDecoration(
-                hintText: 'Type your ingredients',
+                hintText: 'Find your perfect recipe here!',
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(8.0),
                 ),
